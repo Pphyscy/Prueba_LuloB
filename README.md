@@ -1,12 +1,18 @@
 # Prueba Lulo Bank
 
+
+
 # Descripcion 🚀
 Proyecto en python consumiendo una api y guardando la informacion en Sqlite3
+
+
 
 # Instalacion 🔧
 
 Puedes clonar el repositorio 
 `$ git clone url`
+
+
 
 # Ejecutar Proyecto ⚙️
 
@@ -19,9 +25,13 @@ pip install request
 pip install sqlite3
 pip install profile
 
+
+
 # Version 📌
 
 1.0
+
+
 
 # Autores
 
